@@ -18,8 +18,7 @@ A few projects I maintain and contribute to.
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ngdaison&show_icons=true&theme=radical&hide_border=true" alt="Sơn's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngdaison&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://kiyovn.com/assets/mai_nguyen_an_nhien-DFu7cmTm.webp" />
 </p>
 
 *Thanks for stopping by!*
