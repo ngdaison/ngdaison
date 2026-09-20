@@ -18,7 +18,7 @@ A few projects I maintain and contribute to.
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://kiyovn.com/assets/mai_nguyen_an_nhien-DFu7cmTm.webp" />
+  <img src="" />
 </p>
 
 *Thanks for stopping by!*
