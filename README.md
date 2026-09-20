@@ -7,7 +7,7 @@ I like dreaming up ideas and making them real—whether that's building elegant 
 **Building at:** KIYOVN
 **Contact:** [kiyovn.com/lanh-dao/nguyen-duc-dai-son](https://kiyovn.com/lanh-dao/nguyen-duc-dai-son)
 
-### Selected Projects & Open-Source Work
+### Selected Projects
 A few projects I maintain and contribute to.
 
 | Project | Description | Tech Stack |
