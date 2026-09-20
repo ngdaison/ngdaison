@@ -1,7 +1,7 @@
 # Hi, I'm Son 👋
 
 A self-taught full-stack web developer and systems engineer from Hanoi, Vietnam. 
-I like dreaming up ideas and making them real—whether that's building elegant web interfaces, developing bare-metal OS kernels, or managing communities.
+I like dreaming up ideas and making them real ,whether that's building elegant web interfaces, developing bare-metal OS kernels, or managing communities.
 
 **Based in:** Hanoi, Vietnam
 **Building at:** KIYOVN
